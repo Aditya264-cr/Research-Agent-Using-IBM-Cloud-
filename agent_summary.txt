@@ -1,0 +1,25 @@
+Agent Name: Research Assistant Agent
+
+Internship: IBM SkillsBuild + AICTE + Edunet Foundation (2025)
+
+Problem Statement: No. 1 – Research Agent
+
+Platform: IBM Cloud (Watsonx.ai)
+
+Model Used: Mistral (Foundation Model)
+
+Deployment Status: ✅ Deployed successfully on IBM Watsonx Runtime
+
+API Endpoint:
+https://us-south.ml.cloud.ibm.com/ml/v4/deployments/8bd28700-8328-427d-ab54-8a6d851e1144/ai_service_stream?version=2021-05-01
+
+Agent Functionality:
+- Accepts academic research queries
+- Summarizes and suggests relevant information
+- Automates part of the research and idea-generation process
+- Responds to questions using natural language processing
+
+Project Highlights:
+- Built using Watsonx Agentic AI tools (no-code)
+- Deployed with secure API access
+- Ready to integrate with Python frontend or Streamlit
